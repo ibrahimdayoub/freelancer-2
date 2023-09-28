@@ -1,0 +1,15 @@
+
++ Ibrahim Dayoub 8/2023
+
++ Nextjs
+
++ Stack packages:
+	- next-auth
+	- tailwindcss
+	- zustand
+	- zod 
+	- prisma
+	- stripe
+	- react-toastify
+
+
